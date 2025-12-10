@@ -48,11 +48,8 @@ quit()
 ```bash
 help => type keyword
 ```
-# comment
 
-```bash
-ctrl + /
-```
+
 
 
 
