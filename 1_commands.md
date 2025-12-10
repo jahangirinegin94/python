@@ -42,3 +42,18 @@ exit()
 ```bash
 quit()
 ```
+
+# سرچ keyword ها
+
+```bash
+help => type keyword
+```
+# comment
+
+```bash
+ctrl + /
+```
+
+
+
+
